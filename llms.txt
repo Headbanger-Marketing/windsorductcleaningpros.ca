@@ -1,2 +1,25 @@
 # Windsor Duct Cleaning Pros
-HVAC services in Ontario.
+
+> Windsor Duct Cleaning Pros is a local HVAC company serving Windsor, Essex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 708-7480  |  Email: contact@windsorductcleaningpros.ca  |  Website: https://windsorductcleaningpros.ca
+
+## Key pages
+
+- [Home](https://windsorductcleaningpros.ca/): Windsor Duct Cleaning Pros homepage with service overview and FAQ
+- [About](https://windsorductcleaningpros.ca/about/): About the company and service area
+- [Contact](https://windsorductcleaningpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://windsorductcleaningpros.ca/services/air-duct-cleaning/): Air Duct Cleaning in Windsor, Ontario
+- [Dryer Vent Cleaning](https://windsorductcleaningpros.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Windsor, Ontario
+- [Furnace & AC Cleaning](https://windsorductcleaningpros.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Windsor, Ontario
+- [HRV & Ventilation Cleaning](https://windsorductcleaningpros.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Windsor, Ontario
+- [Duct Sanitizing & Deodorizing](https://windsorductcleaningpros.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Windsor, Ontario
+- [Duct Sealing & Repair](https://windsorductcleaningpros.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Windsor, Ontario
+- [Commercial Duct Cleaning](https://windsorductcleaningpros.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Windsor, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Windsor are answered on the homepage.
